@@ -37,6 +37,10 @@ li {
     padding: 10px;
 
 }
+.madeWith {
+    padding: 20px;
+
+}
 li:hover {
     transform: scale(1.1);
 
